@@ -58,58 +58,17 @@
 ---
 
 
-
-
-
-
-<h2>User side screenshot</h2>
-
-<img src="restaurant_user.jpg"
-     alt="restaurant_user"/>
-
----
-
-
-
-
-
-
-
-
-
-
-<h1 id="test-title">Project video on Youtube</h1>
-
-<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
-    <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Video <a href="https://youtu.be/la_qWon6x50"> YouTube </a>.</p>
-    </embed>
-</object>
-
----
-
-
-
-<h1 id="test-title">Project Presentation</h1>
-
-<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
-    <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Ppt <a href="Online_Restaurent.pptx"> Presentation </a>.</p>
-    </embed>
-</object>
-
----
-
-
 <h1 id="test-title">Project Report</h1>
 
 <object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
     <embed src="loremipsum.pdf#page=2">
-        <p>Click here for Report <a href="Project_Report.pdf"> PDF </a>.</p>
+        <p>Click here for view <a href="Project_Report.pdf"> Report </a>.</p>
     </embed>
 </object>
 
 ---
+
+
 
 
 
