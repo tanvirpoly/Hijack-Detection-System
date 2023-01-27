@@ -8,9 +8,7 @@
 <p>Course Code: CSE-438</p>
 
 ---
-
  <h2>Project Name: Hijack detection system</h2>
-
  <h4>In this lab, we discussed the project implementation process step-by-step without using any programming language</h4>
 
 ---
