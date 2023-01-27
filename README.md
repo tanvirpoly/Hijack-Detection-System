@@ -15,7 +15,7 @@
 
 
 
-<h1 id="test-title">Class: 01</h1>
+<h1 id="test-title">Class: 01 & 02</h1>
  <h2>Team information, Finding out Functional Requirements, Non-Functional Requirements, Data Analysis, Complexity</h2>
 
 
@@ -27,50 +27,29 @@
 </object>
 
 
+
+<h1 id="test-title">Class: 03 & 04</h1>
+ <h2>Database Design, Normalization, Use Case Diagram, Sequence Diagram, Class Diagram</h2>
+
+
+
+<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
+    <embed src="loremipsum.pdf#page=2">
+        <p>Click here for view <a href="Class_02.pdf"> PDF </a>.</p>
+    </embed>
+</object>
+
+
+
+
+
+
 <h2>User side screenshot</h2>
 
 <img src="restaurant_user.jpg"
      alt="restaurant_user"/>
 
 ---
-
-
-<h2>Sql screenshot</h2>
-
-<img src="sql.jpg"
-     alt="sql"/>
-
----
-
-
-<h2>Admin panel screenshot</h2>
-
-<img src="pending.png"
-     alt="pending"/>
-
-<img src="overview.png"
-     alt="overview"/>
-
-<img src="order.png"
-     alt="order"/>
-
-
----
-
-<h2>Data-flow diagram</h2>
-
-<img src="DFD.JPG"
-     alt="DFD"/>
-
----     
-
-<h2>UML Diagram</h2>
-
-<img src="UML.JPG"
-     alt="UML"/>
-
----
-
 
 
 
