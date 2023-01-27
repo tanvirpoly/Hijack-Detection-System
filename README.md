@@ -1,18 +1,15 @@
 
-# Output
-
-
 ---
 <h2>Green University of Bangladesh </h2>
 
-<h3>Dept. of Computer Science Engineering</h3>
+<h3>Department of Computer Science and Engineering</h3>
 
-<p>Course Title: Web Programming Lab</p>
-<p>Course Code: CSE-302</p>
+<p>Course Title: Information System and Design Lab</p>
+<p>Course Code: CSE-438</p>
 
 ---
 
- <h2>Project Name: Online Restaurant Management System</h2>
+ <h2>Project Name: Hijack detection system</h2>
 
  <h4>Language Used: PHP5.6,  PHP7.x</h4>
  <h4>Database: MySQL 5.x</h4>
