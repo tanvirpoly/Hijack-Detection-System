@@ -1,6 +1,6 @@
 
 ---
-<h2>Green University of Bangladesh </h2>
+<h1>Green University of Bangladesh </h1>
 
 <h3>Department of Computer Science and Engineering</h3>
 
@@ -13,6 +13,15 @@
 
 ---
 
+
+
+<h1 id="test-title">Class: 01</h1>
+
+<object data="loremipsum.pdf#page=2" type="application/pdf" width="700px" height="700px">
+    <embed src="loremipsum.pdf#page=2">
+        <p>Click here for Report <a href="Project_Report.pdf"> PDF </a>.</p>
+    </embed>
+</object>
 
 
 <h2>User side screenshot</h2>
