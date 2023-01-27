@@ -11,13 +11,11 @@
 
  <h2>Project Name: Hijack detection system</h2>
 
- <h4>Language Used: PHP5.6,  PHP7.x</h4>
- <h4>Database: MySQL 5.x</h4>
- <h4>User Interface Design: HTML, AJAX, JQUERY, JAVASCRIPT</h4>
- <h4>Web Browser: Google Chrome, Mozilla, IE8</h4>
- <h4>Software: XAMPP/ Wamp or anyone</h4>
+ <h4>In this lab, we discussed the project implementation process step-by-step without using any programming language</h4>
 
 ---
+
+
 
 <h2>User side screenshot</h2>
 
